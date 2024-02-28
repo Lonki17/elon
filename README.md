@@ -1,3 +1,9 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xd2CceC1D4F6e6285686d67Df6c09A769db15AAF8'
+quorum: 1
 # Elon
 
 [![pypi-version]][pypi]
